@@ -1,0 +1,17 @@
+# JavaScript Navigator onLine API Demo | Tips | #021
+
+Video link: https://youtu.be/KUqcPQw3D1Q
+
+# Description
+
+In this video I discuss about a cool way to check whether the user is online or not using JavaScript's built-in Navigator onLine API.
+
+The MDN doc: https://developer.mozilla.org/en-US/docs/Web/API/NavigatorOnLine/onLine
+The CanIUse table: https://caniuse.com/#search=online
+The Codepen Demo: https://codepen.io/chaituknag/pen/yLLRpXE?editors=0110
+
+Please subscribe to my channel for more such web developer tips.
+
+# All tags
+
+online,offline,navigator,window,ononline,onoffline,listener,addEventListener,event,body,toggle,classList,function,class,javascript,js,syntax,export,default,anonymous,facebook,error,module,universal,traditional,project,createreactapp,create,app,cra,component,dev,article,chaituknag,creating,es7,redux,native,reactnative,marketplace,vscode,understand,shortcuts,snippet
