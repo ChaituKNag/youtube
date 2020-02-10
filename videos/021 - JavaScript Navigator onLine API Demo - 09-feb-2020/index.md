@@ -4,6 +4,8 @@ Video link: https://youtu.be/KUqcPQw3D1Q
 
 # Description
 
+Thank you for watching this video.
+
 In this video I discuss about a cool way to check whether the user is online or not using JavaScript's built-in Navigator onLine API.
 
 The MDN doc: https://developer.mozilla.org/en-US/docs/Web/API/NavigatorOnLine/onLine
