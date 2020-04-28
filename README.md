@@ -8,3 +8,4 @@ This will contain all the notes and meta about the video content that I produce 
 20. [React Code Snippts plugin for VSCode | Tips | #020](./videos/020.md)
 21. [JavaScript Navigator onLine API Demo | Tips | #021](./videos/021.md")
 22. [JavaScript Classes to function constructors - lets convert | Tutorial | #022](./videos/022.md)
+23. [JavaScript function chaining using function invocation versus instance creation | Tutorial | #023](./videos/023.md)
