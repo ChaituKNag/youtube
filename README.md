@@ -10,3 +10,4 @@ This will contain all the notes and meta about the video content that I produce 
 22. [JavaScript Classes to function constructors - lets convert | Tutorial | #022](./videos/022.md)
 23. [JavaScript function chaining using function invocation versus instance creation | Tutorial | #023](./videos/023.md)
 24. [JavaScript simple event emitter implementation | Tutorial | #024](./videos/024.md)
+25. [JavaScript for loop vs array prototype forEach | Quick DevTip | #025](./videos/025.md)
